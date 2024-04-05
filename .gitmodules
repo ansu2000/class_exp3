@@ -1,3 +1,6 @@
 [submodule "kits_exp2"]
 	path = kits_exp2
 	url = https://github.com/ansu2000/kits_exp2.git
+[submodule "kits_github_lab"]
+	path = kits_github_lab
+	url = https://github.com/ansu2000/kits_github_lab.git
